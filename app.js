@@ -1,1 +1,1 @@
-console.log("HEllo Welcome to this empty projecyt file");
+console.log("HEllo Welcome to this empty project file");
