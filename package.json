@@ -1,0 +1,19 @@
+{
+  "name": "netflixclone",
+  "version": "1.0.0",
+  "description": "We are going to build an mern stack project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanwarAyush/WebDev-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanwarAyush/WebDev-Project/issues"
+  },
+  "homepage": "https://github.com/PanwarAyush/WebDev-Project#readme"
+}
